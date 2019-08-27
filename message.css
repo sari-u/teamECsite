@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+.error,.errorMessage{
+	background-color:#f8f8f8;
+	color:#dc143c;
+	border:1px solid #dc143c;
+	text-align:center;
+	width:95%;
+	font-family:'Yu Gothic';
+	margin:0 auto;
+	margin-top:0.5%;
+	margin-bottom:0.5%;
+	padding-top:1%;
+	padding-bottom:1%;
+}
+#info{
+	background-color:#f8f8f8;
+	color:#dc143c;
+	border:1px solid #dc143c;
+	text-align:center;
+	width:95%;
+	font-family:'Yu Gothic';
+	margin:0 auto;
+	margin-top:0.5%;
+	margin-bottom:0.5%;
+	padding-top:1%;
+	padding-bottom:1%;
+	padding-left:1%;
+}
+
+.success{
+	text-align:center;
+	border:solid 1px #66cdaa;
+	background-color:#d8ffb2;
+	padding:1%;
+	margin-left:4%;
+	margin-right:4%;
+}
+.info{
+	color: #FF8C00;
+	background-color: #f8f8f8;
+	border:1px solid #FF8C00;
+	text-align:center;
+	width:95%;
+	font-family:'Yu Gothic';
+	margin:0 auto;
+	margin-top:0.5%;
+	margin-bottom:0.5%;
+	padding-top:1%;
+	padding-bottom:1%;
+}
